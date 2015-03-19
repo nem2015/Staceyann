@@ -1,0 +1,16 @@
+﻿table {
+	font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+	font-size: large;
+	color: #333333;
+	background-color: #D2E5C1;
+	border: 3px dashed #000000;
+	border-radius: 5px;
+	padding: 5px;
+}
+.tableText {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-size: medium;
+	color: #000000;
+	background-color: #A8CF87;
+	border-style: none;
+}
